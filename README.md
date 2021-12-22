@@ -1,2 +1,3 @@
-# BlendingGradients
-Blending gradients using Granim.js 
+<p align='center'>
+  <img src='preview.gif'>
+</p>
